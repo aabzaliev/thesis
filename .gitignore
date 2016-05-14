@@ -54,3 +54,5 @@ results2/
 #and csv files and txt
 *.csv
 *.txt
+*.RData
+*.Rhistory
